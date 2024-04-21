@@ -1,6 +1,5 @@
 # PCSE24-56
-##
-#My Health Hub
+# My Health Hub
 My Health Hub is a digital platform designed for patients to securely store and access their medical records. With My Health Hub, patients can create an account and upload their medical records, including doctor's notes, lab results, and medication histories. The platform is designed to be user-friendly and intuitive, with a search function and easy navigation to help patients find the information they need.
 
 Technologies Used Front-end Technologies: React.js, MaterialUI, and Tailwind Back-end Technologies: Node.js Database Technologies: MongoDB
